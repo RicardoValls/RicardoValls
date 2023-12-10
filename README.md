@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m @RicardoValls</h1>
-<p>🌱 I’m currently focusing in learning PHP more in depth and understanding SQL better</p>
-<p>👀 I’m interested how things work, like object oriented programing or user centered web</p>
-<!--<p>💞️ I’m looking forward to collaborate on some project soon</p>-->
+<p>🌱 I’m currently focusing in automation testing</p>
+<p>👀 I’m interested how things work</p>
+<p>💞️ I’m looking forward to land my first IT job</p>
 <p>📫 How to reach me? That's a good question, drop me a message</p>
 
 <!---
